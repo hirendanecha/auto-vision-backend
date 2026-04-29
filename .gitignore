@@ -2,3 +2,5 @@ venv
 .venv/
 *__pycache__
 *cache
+config.bat
+node_modules
