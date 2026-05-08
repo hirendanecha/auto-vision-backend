@@ -7,6 +7,7 @@ Pipeline: Upload → Damage Detection → Severity → Cost → PDF Report
 Run: streamlit run main.py
 """
 
+import utils.session
 import os
 import sys
 import importlib
